@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var lblPorcentajePropina: UILabel!
     @IBOutlet weak var lblTotalPropina: UILabel!
     @IBOutlet weak var lblTotalConPropina: UILabel!
-    
+    //Hola como estas
     @IBAction func doChageValores(_ sender: Any) {
     }
     override func viewDidLoad() {
